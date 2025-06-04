@@ -1,9 +1,5 @@
 # Francisco Daniel Mireles Ledesma
 
-<p align="center">
-  <img src="fullstack-banner.svg" alt="Full-Stack Developer Banner" width="100%" />
-</p>
-
 ## 🚀 Full-Stack Software Engineer | Cloud, Mobile & Web Solutions
 
 ### Tecnologías principales
