@@ -29,6 +29,9 @@ Aficionado al ajedrez ♟️, fútbol ⚽, el baile y el canto 🎵.
 ### 📫 Contacto
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francisco-daniel-mirelesledesma-59084b268)
+dfrankmireles@outlook.com
+CELULAR:
++52 5629706279
 
 ---
 
